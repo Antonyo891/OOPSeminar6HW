@@ -1,5 +1,5 @@
 package ISP;
-
+//для плоской фигуры не смогли бы найти объем 
 public class Circle implements Shape {
     private int radius;
 

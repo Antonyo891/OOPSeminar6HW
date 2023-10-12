@@ -1,5 +1,6 @@
 package LSP;
-
+//порожденный класс не изменяет определение типа родительского и его поведение: 
+//метод area находит площадь и в родительском и в порожденном классе 
 public class Rectangle extends QuadRangle {
     private int width;
     private int height;
